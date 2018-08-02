@@ -16,3 +16,4 @@ def insert(value):
 
 input = int(input("Enter the value "))
 print(insert(input))
+print("value inserted")
